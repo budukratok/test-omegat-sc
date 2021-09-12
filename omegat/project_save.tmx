@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reviving</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="budukratok" changedate="20210912T125737Z" creationid="budukratok" creationdate="20210912T125737Z">
+        <seg>Воскрешение</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
