@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>- Offline -</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="budukratok" changedate="20210912T130926Z" creationid="budukratok" creationdate="20210912T130926Z">
+        <seg>- Оффлайн -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revive</seg>
+      </tuv>
+      <tuv lang="ru-RU" changeid="budukratok" changedate="20210912T130915Z" creationid="budukratok" creationdate="20210912T130915Z">
+        <seg>Воскресить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reviving</seg>
       </tuv>
       <tuv lang="ru-RU" changeid="budukratok" changedate="20210912T125737Z" creationid="budukratok" creationdate="20210912T125737Z">
